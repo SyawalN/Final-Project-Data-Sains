@@ -1,6 +1,6 @@
 ## Final Project Data Sains
-`Project pembuatan aplikasi yang menerapkan model dengan Backpropagation, Long Short-Term Memory (LSTM), dan Support`
-`Vector Machine (SVM). Project ini dikembangkan menggunakan bahasa pemrograman `**Python**`, dan framework web app `**Streamlit**.
+`Project pembuatan aplikasi yang menerapkan model dengan Backpropagation, Long Short-Term Memory (LSTM), dan Support
+Vector Machine (SVM). Project ini dikembangkan menggunakan bahasa pemrograman Python, dan framework web app Streamlit.`
 
 #### Anggota:
 - 2201020012
